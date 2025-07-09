@@ -1,0 +1,93 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.description-of-love {
+  border: 1px solid #F8F8E1;
+}
+
+.navbar {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+img {
+  width: 15em; 
+  height: 15em;
+  margin: auto;
+}
+
+.navbar-light {
+    background-color: #F8F8E1 !important;
+    border: none !important;
+    border-width: 0 !important;
+}
+
+.description-of-love {
+  background-color: #F8F8E1;
+}
+
+.love-text {
+  color: #FFC1DA;
+  font-size: 20px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bold;
+}
+
+.love {
+  color: #FFC1DA;
+  font-size: 50px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bold;
+  font-family: "Love Light", cursive;
+}
+
+.bio {
+  background-color: #FFC1DA;
+  border: 1px solid #FFC1DA;
+}
+
+.me {
+  color: #F8F8E1;
+  font-size: 50px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bold;
+  font-family: "Love Light", cursive;
+}
+
+.bio-text {
+  color: #F8F8E1;
+  font-size: 20px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bold;
+}
+
+.number-container {
+  background-color: #c9e4e8;
+  border: 1px solid #c9e4e8;
+}
+
+.what-are-you-waiting-for {
+  color: #FF90BB;
+  font-size: 35px;
+  padding: 30px;
+  font-weight: bold;
+  font-family: "Love Light", cursive;
+}
+
+.number {
+  color: #FF90BB;
+  font-size: 70px;
+  padding: 30px;
+  font-weight: bold;
+  text-align: center;
+}
